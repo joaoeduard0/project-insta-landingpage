@@ -1,5 +1,5 @@
 # Clone de Landingpage do Instagram
-Link: https://joaoeduard0.github.io/project-insta-landingpage/ /n
+Link: https://joaoeduard0.github.io/project-insta-landingpage/ <br/>
  O projeto tem como objetivo clonar a página de interface do usuário do Instagram.
  As principais ferramentas utilizadas foram:
   - CSS
